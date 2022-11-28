@@ -53,6 +53,7 @@ function App() {
           <Boton manejarClic={agregarInput}>6</Boton>
           <Boton manejarClic={agregarInput}>-</Boton>
         </div>
+        {/* holi */}
         <div className='fila'>
           <Boton manejarClic={agregarInput}>7</Boton>
           <Boton manejarClic={agregarInput}>8</Boton> 
